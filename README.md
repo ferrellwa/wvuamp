@@ -11,6 +11,10 @@ However, we've uploaded a VirtualBox VM image to the
 following link for easy access (readme included):
 https://drive.google.com/open?id=0Bx-xR_Kj__IgY1AzU25PWmZ3U1k
 
+"Bookcase Wit" is our work-in-progress title for our mod deliverable.
+Again, this is just a snapshot of our mod progress up to May 2016:
+https://github.com/ferrellwa/bookcasewit
+
 Our team will be on a short hiatus (coursework burnout...),
 but don't hesitate to drop me a line if you have any questions!
 
