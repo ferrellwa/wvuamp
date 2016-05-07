@@ -15,14 +15,14 @@ Our team will be on a short hiatus (coursework burnout...),
 but don't hesitate to drop me a line if you have any questions!
 
 Team Members:
-Sarah Wilfong	- Developer
-Walter Ferrell	- Developer
-Matt Baldwin	- Developer
-John Loy	- Developer
-Nick Brasco	- Developer
-Keenan McClane	- Developer
-James Cockburn	- Developer
-Billy Bowen	- Developer
-Ben Krantz	- Developer
-Chance Upton	- Communications Consultant
+Sarah Wilfong - Developer |
+Walter Ferrell	- Developer |
+Matt Baldwin	- Developer |
+John Loy	- Developer |
+Nick Brasco	- Developer |
+Keenan McClane	- Developer |
+James Cockburn	- Developer |
+Billy Bowen	- Developer |
+Ben Krantz	- Developer |
+Chance Upton	- Communications Consultant |
 Lucas Bosley	- Audio Engineer (Music Deliverable)
